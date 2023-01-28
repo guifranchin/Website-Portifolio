@@ -1,0 +1,23 @@
+.halfcolor {
+    background: linear-gradient(to bottom,
+            #2563eb 0%,
+            #2563eb 20%,
+            white 20%,
+            white 100%);
+}
+
+.halfcolor2 {
+    background: linear-gradient(to bottom,
+            white 0%,
+            white 20% #2563eb 20%,
+            #2563eb 100%,
+        );
+}
+
+.halfcolor3 {
+    background: linear-gradient(to bottom,
+            #2563eb 0%,
+            #2563eb 20%,
+            white 20%,
+            white 100%);
+}
